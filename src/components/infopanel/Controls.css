@@ -1,0 +1,6 @@
+.controlPanel {
+    min-height: calc(100vh - 64px);
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+}
